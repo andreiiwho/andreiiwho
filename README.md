@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **full-stack developer**
 
-- 🌱 I’m currently learning **PHP, SQL, JAVA, LARAVEL, C#, C++, BOOSTRAP, REACTJS**
+- 🌱 I’m currently learning **PHP, SQL, JAVA, LARAVEL, C#, C++, BOOTSTRAP, REACTJS**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON**
 
