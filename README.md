@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP, SQL, JAVA, LARAVEL, C#, C++, BOOSTRAP, REACTJS**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON, JAVA, PHP**
 
 - 📫 How to reach me **just message my social media account**
 
