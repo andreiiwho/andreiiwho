@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DevAndreii</h1>
 <h3 align="center">1st year IT (Information Technology) student</h3>
 
-- 🔭 I’m currently studying **full-stack developer**
+- 🔭 I’m currently studying **Software Developer**
 
 - 🌱 I’m currently learning **C#, VUE, FIGMA, .NET**
 
