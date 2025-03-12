@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, LARAVEL, FIGMA, .NET**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON**
+- 💬 Ask me about **FRONT-END, BACK-END, DATABASE**
 
 - 📫 How to reach me **just message my social media account**
 
