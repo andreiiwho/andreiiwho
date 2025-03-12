@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Software Developer**
 
-- 🌱 I’m currently learning **C#, VUE, FIGMA, .NET**
+- 🌱 I’m currently learning **C#, LARAVEL, FIGMA, .NET**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON**
 
